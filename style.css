@@ -1,0 +1,17 @@
+body
+{
+ background-image:url(https://hpmedia.bloomsbury.com/rep/g/page-background%20-%20grid%20-%20Copy.png);
+ padding-left: 11em;
+ padding-right: 20em;
+font-family:cursive;
+color: White;
+font-size:15px;
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+hr
+{
+  border-top: 3px solid;
+  border-color:#fa7d09;
+}
